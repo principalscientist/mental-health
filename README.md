@@ -40,3 +40,8 @@ Effects of Different Types of Technology Use
 * Logistic Regression
 * Random Forest
 * Gradient Boost
+
+### Machine Learning Results 
+* Logistic Regression (50% accuracy)
+* Random Forest (25% accuracy)
+* Gradient Boost (25% accuracy)
