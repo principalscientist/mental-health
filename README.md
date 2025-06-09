@@ -1,6 +1,7 @@
 ### Impact of Screen Time on Mental Health
 #### Key Words: health, technology, classification, gradient boosting, random forest, logistic regression
-![Product Data Analyst](https://github.com/principalscientist/loan-dataset/blob/main/loan-image)
+![Product Data Analyst](https://github.com/principalscientist/mental-health/blob/main/iStock-1223365194-1024x570.jpg)
+
 ### Background
 The United Health Nations has a mission to promote overall well-being, including mental and social. The 3rd sustainable development goal (SD3) aims to ensure healthy lives and promote well-being for all ages.
 
